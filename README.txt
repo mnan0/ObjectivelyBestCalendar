@@ -1,4 +1,5 @@
-To start the program, if you are using intellij then set it up so that Main.java is the class you run.
+To start the program, set it up so that Main.java is the class you run. 
+Main.java is located in tidyCalendar/src/com/group_0225.
 
 
 Instructions:
