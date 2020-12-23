@@ -2,7 +2,8 @@
 This is a calendar app. Users create an account before accessing the app.  If required, there can be more than one calendar under the same account. After logging in, users may plan their events on the calendar. Users can be notified of events with alerts. Events can be customized by adding memos and tags. If users require a certain event to occur regularly (ex. piano lessons), they may find it useful to set up a series of events. Users may invite other users to their event. 
 Main.java is the start class. It is located in tidyCalendar/src/com/group_0225.
 
-**Collaborators**
+**Collaborators:**
+
 This project was completed with [Mark Sanchez](https://github.com/Mark-of-JP), [Daniel Shoichet](https://github.com/idanielsh), [Abhijoy Mandal](https://github.com/Abhijoy-Mandal), Omar Shalash. We submitted it as the final assessement for CSC207 (Software Design) at the University of Toronto.
 
 **Notes**:
